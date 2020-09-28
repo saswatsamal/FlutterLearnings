@@ -18,3 +18,24 @@ This is the repository where I will be sharing my learnings on App Development w
 
 You can find my work [here](https://github.com/saswatsamal/FlutterLearnings/tree/master/Basics/helloworld).
 </details>
+
+
+<details open>
+<summary>helloworld2</summary>
+  
+- In this part, I've made the app to look better using Material Scaffold.
+  
+- I also what are Stateless and Stateful Widgets.
+
+    - Stateless: Basically it is static i.e. never changes, like Icon, Icon Button.
+    - Stateful: It is dynamic like Checkbox, Slider etc.
+
+- In this app I've done the project using <code>Stateless Widget</code>
+
+    <img src = "https://github.com/saswatsamal/FlutterLearnings/blob/master/_assets/imgs/helloworld2.jpg" width="500">
+    
+    ^ Preview
+  
+
+You can find my work [here](https://github.com/saswatsamal/FlutterLearnings/tree/master/Basics/helloworld2).
+</details>
