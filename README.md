@@ -11,7 +11,7 @@ This is the repository where I will be sharing my learnings on App Development w
   
 - I also learned about <code>import 'package:flutter/material.dart';</code> and about <strong>material.dart</strong>.
 
-    <img src = "https://github.com/saswatsamal/FlutterLearnings/blob/master/_assets/imgs/helloworld.jpg" width="500">
+    <img src = "https://github.com/saswatsamal/FlutterLearnings/blob/master/_assets/imgs/helloworld.jpg" width="700">
     
     ^ Preview
   
@@ -32,7 +32,7 @@ You can find my work [here](https://github.com/saswatsamal/FlutterLearnings/tree
 
 - In this app I've done the project using <code>Stateless Widget</code>
 
-    <img src = "https://github.com/saswatsamal/FlutterLearnings/blob/master/_assets/imgs/helloworld2.jpg" width="500">
+    <img src = "https://github.com/saswatsamal/FlutterLearnings/blob/master/_assets/imgs/helloworld2.jpg" width="700">
     
     ^ Preview
   
