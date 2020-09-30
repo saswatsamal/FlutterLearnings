@@ -50,36 +50,22 @@ You can find my work [here](https://github.com/saswatsamal/FlutterLearnings/tree
 - The snippet of code which is used to create the button.
 
 <code>
-
-  Widget _bodyWidget() {
-
+  
+    Widget _bodyWidget() {
     return new Container(
-
         padding: const EdgeInsets.all(8.0),
-
         child: new Center(
-
           child: new Column(
-
             children: <Widget>[
-
               new Text(myText),
-
               new RaisedButton(
-
                 child: new Text("Click"),
-
                 onPressed: _changeText,
-
               )
-
             ],
-
           ),
-
         ));
-
-  }
+    }
 </code>
 
 
