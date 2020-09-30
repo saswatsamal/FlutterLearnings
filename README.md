@@ -80,3 +80,22 @@ You can find my work [here](https://github.com/saswatsamal/FlutterLearnings/tree
 
 You can find my work [here](https://github.com/saswatsamal/FlutterLearnings/tree/master/Basics/helloworld3).
 </details>
+
+<details close>
+<summary>helloworld4</summary>
+  
+- In this part, I've made the allignment of the whole subject to the center.
+  - Learned about the Main Axis Allignment and Cross Axis Allignment.
+    - Main axis allignment of column: vertical position
+    - Cross axis allignment of column: horizontal position
+   - Similarly, row has a main axis and cross axis which is opposite of column's properties.
+- The place where padding can't be given, we can use <code>container</code> over there
+
+
+    <img src = "https://github.com/saswatsamal/FlutterLearnings/blob/master/_assets/imgs/helloworld4.jpg" width="700">
+    
+    ^ Preview
+  
+
+You can find my work [here](https://github.com/saswatsamal/FlutterLearnings/tree/master/Basics/helloworld4).
+</details>
