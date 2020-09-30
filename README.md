@@ -50,7 +50,6 @@ You can find my work [here](https://github.com/saswatsamal/FlutterLearnings/tree
 - The snippet of code which is used to create the button.
 
 <code>
-
   Widget _bodyWidget() {
     return new Container(
         padding: const EdgeInsets.all(8.0),
@@ -66,11 +65,13 @@ You can find my work [here](https://github.com/saswatsamal/FlutterLearnings/tree
           ),
         ));
   }
-
 </code>
 
 -
-    <img src = "https://github.com/saswatsamal/FlutterLearnings/blob/master/_assets/imgs/helloworld3.jpg" width="700">
+    <img src = "https://github.com/saswatsamal/FlutterLearnings/blob/master/_assets/imgs/helloworld3a.jpg" width="700">
+
+-
+    <img src = "https://github.com/saswatsamal/FlutterLearnings/blob/master/_assets/imgs/helloworld3b.jpg" width="700">
     
     ^ Preview
   
